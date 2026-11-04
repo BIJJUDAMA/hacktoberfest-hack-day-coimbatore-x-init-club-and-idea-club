@@ -1,0 +1,20 @@
+[
+  {
+    "visa_id": "DEMO-V-D00000001",
+    "passport_number": "D00000001",
+    "visa_type": "TOURIST",
+    "country": "USA",
+    "issue_date": null,
+    "expiry_date": "2098-02-22",
+    "status": "ACTIVE"
+  },
+  {
+    "visa_id": "DEMO-V-D00000002",
+    "passport_number": "D00000002",
+    "visa_type": "TOURIST",
+    "country": "USA",
+    "issue_date": null,
+    "expiry_date": "2036-02-22",
+    "status": "ACTIVE"
+  }
+]

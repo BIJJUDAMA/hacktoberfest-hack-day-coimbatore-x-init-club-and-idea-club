@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.env.example
+
+# Local test documents
+p2_document_engine/samples/test_passport_fixed.pdf
+p2_document_engine/samples/test_passport.pdf.pdf

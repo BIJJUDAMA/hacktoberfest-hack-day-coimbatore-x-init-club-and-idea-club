@@ -1,0 +1,18 @@
+[
+  {
+    "record_id": "SEC-D00000001",
+    "name": "Roa",
+    "date_of_birth": "2008-02-21",
+    "passport_number": "D00000001",
+    "status": "CLEAR",
+    "reason": null
+  },
+  {
+    "record_id": "SEC-D00000002",
+    "name": "Roahith",
+    "date_of_birth": "2008-02-21",
+    "passport_number": "D00000002",
+    "status": "CLEAR",
+    "reason": null
+  }
+]

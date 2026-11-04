@@ -1,0 +1,22 @@
+[
+  {
+    "passport_number": "D00000001",
+    "name": "Roa",
+    "date_of_birth": "2008-02-21",
+    "nationality": "USA",
+    "citizenship": "USA",
+    "issue_date": null,
+    "expiry_date": "2098-02-22",
+    "status": "ACTIVE"
+  },
+  {
+    "passport_number": "D00000002",
+    "name": "Roahith",
+    "date_of_birth": "2008-02-21",
+    "nationality": "USA",
+    "citizenship": "USA",
+    "issue_date": null,
+    "expiry_date": "2036-02-22",
+    "status": "ACTIVE"
+  }
+]
